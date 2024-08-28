@@ -1,0 +1,66 @@
+[INFO ] 28-08-2024 11:21:20 [main] Version - HHH000412: Hibernate ORM core version 6.1.7.Final
+[WARN ] 28-08-2024 11:21:20 [main] pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+[INFO ] 28-08-2024 11:21:20 [main] pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+[INFO ] 28-08-2024 11:21:20 [main] pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost/FPT_Application]
+[INFO ] 28-08-2024 11:21:20 [main] pooling - HHH10001001: Connection properties: {password=****, user=root}
+[INFO ] 28-08-2024 11:21:20 [main] pooling - HHH10001003: Autocommit mode: false
+[INFO ] 28-08-2024 11:21:20 [main] pooling - HHH10001115: Connection pool size: 4 (min=1)
+[WARN ] 28-08-2024 11:21:20 [main] Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+[INFO ] 28-08-2024 11:21:20 [main] SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO ] 28-08-2024 11:21:20 [main] Version - HV000001: Hibernate Validator 8.0.1.Final
+[INFO ] 28-08-2024 11:21:21 [main] access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@7aae1170] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+[INFO ] 28-08-2024 15:08:48 [main] Version - HHH000412: Hibernate ORM core version 6.1.7.Final
+[WARN ] 28-08-2024 15:08:48 [main] pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+[INFO ] 28-08-2024 15:08:48 [main] pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+[INFO ] 28-08-2024 15:08:48 [main] pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost/FPT_Application]
+[INFO ] 28-08-2024 15:08:48 [main] pooling - HHH10001001: Connection properties: {password=****, user=root}
+[INFO ] 28-08-2024 15:08:48 [main] pooling - HHH10001003: Autocommit mode: false
+[INFO ] 28-08-2024 15:08:48 [main] pooling - HHH10001115: Connection pool size: 4 (min=1)
+[WARN ] 28-08-2024 15:08:48 [main] Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+[INFO ] 28-08-2024 15:08:48 [main] SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO ] 28-08-2024 15:08:48 [main] Version - HV000001: Hibernate Validator 8.0.1.Final
+[INFO ] 28-08-2024 15:08:48 [main] access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@4ef5dd23] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+[INFO ] 28-08-2024 15:08:57 [main] Version - HHH000412: Hibernate ORM core version 6.1.7.Final
+[WARN ] 28-08-2024 15:08:58 [main] pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+[INFO ] 28-08-2024 15:08:58 [main] pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+[INFO ] 28-08-2024 15:08:58 [main] pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost/FPT_Application]
+[INFO ] 28-08-2024 15:08:58 [main] pooling - HHH10001001: Connection properties: {password=****, user=root}
+[INFO ] 28-08-2024 15:08:58 [main] pooling - HHH10001003: Autocommit mode: false
+[INFO ] 28-08-2024 15:08:58 [main] pooling - HHH10001115: Connection pool size: 4 (min=1)
+[WARN ] 28-08-2024 15:08:58 [main] Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+[INFO ] 28-08-2024 15:08:58 [main] SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO ] 28-08-2024 15:08:58 [main] Version - HV000001: Hibernate Validator 8.0.1.Final
+[INFO ] 28-08-2024 15:08:58 [main] access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@52aa7742] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+[INFO ] 28-08-2024 15:09:12 [main] Version - HHH000412: Hibernate ORM core version 6.1.7.Final
+[WARN ] 28-08-2024 15:09:13 [main] pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+[INFO ] 28-08-2024 15:09:13 [main] pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+[INFO ] 28-08-2024 15:09:13 [main] pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost/FPT_Application]
+[INFO ] 28-08-2024 15:09:13 [main] pooling - HHH10001001: Connection properties: {password=****, user=root}
+[INFO ] 28-08-2024 15:09:13 [main] pooling - HHH10001003: Autocommit mode: false
+[INFO ] 28-08-2024 15:09:13 [main] pooling - HHH10001115: Connection pool size: 4 (min=1)
+[WARN ] 28-08-2024 15:09:13 [main] Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+[INFO ] 28-08-2024 15:09:13 [main] SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO ] 28-08-2024 15:09:13 [main] Version - HV000001: Hibernate Validator 8.0.1.Final
+[INFO ] 28-08-2024 15:09:13 [main] access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@6b5c134e] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+[INFO ] 28-08-2024 15:16:08 [main] Version - HHH000412: Hibernate ORM core version 6.1.7.Final
+[WARN ] 28-08-2024 15:16:08 [main] pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+[INFO ] 28-08-2024 15:16:08 [main] pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+[INFO ] 28-08-2024 15:16:08 [main] pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost/FPT_Application]
+[INFO ] 28-08-2024 15:16:08 [main] pooling - HHH10001001: Connection properties: {password=****, user=root}
+[INFO ] 28-08-2024 15:16:08 [main] pooling - HHH10001003: Autocommit mode: false
+[INFO ] 28-08-2024 15:16:08 [main] pooling - HHH10001115: Connection pool size: 4 (min=1)
+[WARN ] 28-08-2024 15:16:08 [main] Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+[INFO ] 28-08-2024 15:16:08 [main] SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO ] 28-08-2024 15:16:08 [main] Version - HV000001: Hibernate Validator 8.0.1.Final
+[INFO ] 28-08-2024 15:16:08 [main] access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@52aa7742] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+[INFO ] 28-08-2024 15:16:17 [main] Version - HHH000412: Hibernate ORM core version 6.1.7.Final
+[WARN ] 28-08-2024 15:16:17 [main] pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+[INFO ] 28-08-2024 15:16:17 [main] pooling - HHH10001005: Loaded JDBC driver class: com.mysql.cj.jdbc.Driver
+[INFO ] 28-08-2024 15:16:17 [main] pooling - HHH10001012: Connecting with JDBC URL [jdbc:mysql://localhost/FPT_Application]
+[INFO ] 28-08-2024 15:16:17 [main] pooling - HHH10001001: Connection properties: {password=****, user=root}
+[INFO ] 28-08-2024 15:16:17 [main] pooling - HHH10001003: Autocommit mode: false
+[INFO ] 28-08-2024 15:16:17 [main] pooling - HHH10001115: Connection pool size: 4 (min=1)
+[WARN ] 28-08-2024 15:16:17 [main] Dialect - HHH000511: The 5.5.0 version for [org.hibernate.dialect.MySQLDialect] is no longer supported, hence certain features may not work properly. The minimum supported version is 5.7.0. Check the community dialects project for available legacy versions.
+[INFO ] 28-08-2024 15:16:17 [main] SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+[INFO ] 28-08-2024 15:16:17 [main] Version - HV000001: Hibernate Validator 8.0.1.Final
+[INFO ] 28-08-2024 15:16:17 [main] access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@6b5c134e] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
